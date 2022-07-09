@@ -9,4 +9,4 @@ Repositório com as práticas das aulas HTML/CSS-JS
 
 -[Link site unsplash](https://unsplash.com/)
 
--[Link site para diminuir tamanho de imagens](https://tinyjpg.com/)
+-[Link site para diminuir tamanho de imagens](https://tinyjpg.com/)   
