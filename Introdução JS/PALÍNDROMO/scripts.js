@@ -9,10 +9,18 @@ console.log(verificaPalindromo("gato"));
 
 
 //solução 2
-function verificaPalindromo(string) {
+//omo
+function verificaPalindromo2(string) {
     if(!string) return "string inexistente";
 
-    for(let i = 0; < string.length / 2; i++) {
-
+    for(let i = 0; i < string.length / 2; i++) {
+        if(string[i] !== string[string.length -1 -i]) {
+            return false;
+        }
+        
     }
+
+    return true;
 }
+
+console.log(verificaPalindromo2("omo"));
